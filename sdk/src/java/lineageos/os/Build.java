@@ -28,10 +28,10 @@ public class Build {
     public static final String UNKNOWN = "unknown";
 
     /** A build ID utilized to distinguish lineageos versions */
-    public static final String EVOLUTION_VERSION = getString("ro.evolution.version");
+    public static final String CAVVOH_VERSION = getString("ro.cavvoh.version");
 
     /** A build ID string meant for displaying to the user */
-    public static final String EVOLUTION_DISPLAY_VERSION = getString("ro.evolution.display.version");
+    public static final String CAVVOH_DISPLAY_VERSION = getString("ro.cavvoh.display.version");
 
     private static final SparseArray<String> sdkMap;
     static

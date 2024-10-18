@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Label for the Evolution X system components when they are shown to the user. -->
-    <string name="lineageos_system_label">Evolution X System</string>
+    <!-- Label for the Cavvoh OS system components when they are shown to the user. -->
+    <string name="lineageos_system_label">Cavvoh OS System</string>
 
     <!-- Labels for the MODIFY_PROFILES permission. -->
     <string name="permlab_modifyProfiles">modify system profiles</string>
@@ -89,12 +89,12 @@
 
     <!-- About device screen, build date -->
     <string name="build_date">Build date</string>
-    <!-- About device screen, Evolution X API Level -->
-    <string name="lineage_api_level">Evolution X API level</string>
-    <!-- About device screen, Evolution X updates -->
-    <string name="lineage_updates">Evolution X updates</string>
-    <!-- About device screen, Evolution X version -->
-    <string name="lineage_version">Evolution X version</string>
+    <!-- About device screen, Cavvoh OS API Level -->
+    <string name="lineage_api_level">Cavvoh OS API level</string>
+    <!-- About device screen, Cavvoh OS updates -->
+    <string name="lineage_updates">Cavvoh OS updates</string>
+    <!-- About device screen, Cavvoh OS version -->
+    <string name="lineage_version">Cavvoh OS version</string>
     <!-- About device screen, vendor security patch -->
     <string name="lineage_vendor_security_patch">Vendor security patch level</string>
 
